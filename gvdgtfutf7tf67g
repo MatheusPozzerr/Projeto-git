@@ -1,0 +1,30 @@
+[33mcommit ac3faf53b81086deecba7db6bb10704834ce0303[m[33m ([m[1;36mHEAD -> [m[1;32mteste_1[m[33m)[m
+Merge: 9413472 c818ddc
+Author: pozzerrr <matheuspozzermoraes@gmail.com>
+Date:   Mon Aug 3 19:27:18 2020 -0300
+
+    Merge branch 'teste_1' of https://github.com/pozzerrr/Projeto-git into teste_1
+
+[33mcommit 9413472a77cb9ef529f65306aa20f01cd9f9bdad[m
+Author: pozzerrr <matheuspozzermoraes@gmail.com>
+Date:   Mon Aug 3 19:25:43 2020 -0300
+
+    exemplo
+
+[33mcommit c818ddcc150a432011bbaa1bcfc9a62cfdff05d5[m[33m ([m[1;31morigin/teste_1[m[33m)[m
+Author: Matheus Pozzer Moraes <66885469+pozzerrr@users.noreply.github.com>
+Date:   Mon Aug 3 19:24:42 2020 -0300
+
+    Connect local
+
+[33mcommit 54b9628f5566b734da8351f2ac17d9909ae2ce7a[m
+Author: Matheus Pozzer Moraes <matheuspozzermoraes@gmail.com>
+Date:   Mon Aug 3 19:13:12 2020 -0300
+
+    first commit
+
+[33mcommit 87a03daf90d23871bc33c48d3ee4c326eef737ba[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mteste2[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pozzerrr <66885469+pozzerrr@users.noreply.github.com>
+Date:   Mon Aug 3 18:39:27 2020 -0300
+
+    Initial commit
